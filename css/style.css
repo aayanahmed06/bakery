@@ -1,0 +1,35 @@
+.headings{
+    background-image: url(/img/images.jpeg);
+    color:white;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: auto;
+    width:300px;
+    border: 2px solid black;
+    margin: auto;
+}
+    /* Ye nhi hua */
+.links{
+    text-decoration: none;
+}
+.heading{
+    position: absolute;
+    right:300px;
+
+}
+.p{
+    position: absolute;
+    right: 100px;
+    margin: 100px;
+}
+.li{
+    position:absolute;
+    float: right;
+    right: 100px;
+    margin: 200px;
+}
+.img1{
+    position:absolute;
+    
+    
+}
